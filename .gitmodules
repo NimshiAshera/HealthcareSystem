@@ -1,0 +1,3 @@
+[submodule "HealthcareSystem-Appointment"]
+	path = HealthcareSystem-Appointment
+	url = https://github.com/NimshiAshera/HealthcareSystem-Appointment.git
